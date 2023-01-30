@@ -1,0 +1,5 @@
+Node.js v18.13.0
+npm v8.19.13
+sudo npm i -g npm@9.3.0
+npm i npx
+npm i react-icons
