@@ -28,6 +28,12 @@
     height: 100%;
     width: 22%;
     display: block;
+    position: relative;
+}
+
+.about-block {
+    margin-left: 50px;
+    margin-top: 100px;
 }
 
 .icon-link {
@@ -41,7 +47,7 @@
 
 .icon-link:hover {
     transition: all  0.3s ease;
-    color: #747474;
+    color: #498AF5;
     transform: translateX(10px);
     cursor: pointer;
 }
